@@ -15,7 +15,7 @@
       <img src="img/logo-for-web-site.jpg" alt="JSS-STU" width="250px">
     </header>
     <nav>
-      <a href="home.html">HOME</a>|
+      <a href="index.html">HOME</a>|
       <a href="admission.php">ADMISSION</a>|
       <a href="search.php">STUDENT INFO</a>|
       <a href="update.php">UPDATE INFO</a>

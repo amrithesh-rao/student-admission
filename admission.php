@@ -19,7 +19,7 @@
   </header>
   </div>
   <nav >
-  <a href="home.html">HOME</a>|
+  <a href="index.html">HOME</a>|
   <a href="admission.php">ADMISSION</a>|
   <a href="search.php">STUDENT INFO</a>|
   <a href="update.php">UPDATE INFO</a>
