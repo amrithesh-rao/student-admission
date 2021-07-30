@@ -1,0 +1,43 @@
+.window {
+    width: 1000px;
+    text-align: center;
+}
+
+body{
+    margin:0px
+}
+table,th,td{
+  border: double;
+  padding: 10px;
+}
+th{
+  color: darkred;
+}
+
+nav{
+    padding:10px;
+    margin-bottom: 2px;
+    text-align: center;
+    background:#f06623;
+}
+footer{
+    margin-top: 2px;
+    border-top: 0.5em solid #0a5a73;
+    background:#f06623;
+    padding:6px;
+    color: white;
+    position: relative;
+    top: 207px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+}
+a:hover{
+  color: darkred;
+}
+.top{
+  background-color: white;
+  margin-bottom: 25px;
+}

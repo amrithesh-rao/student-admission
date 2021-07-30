@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+}
+nav {
+  padding: 10px;
+  margin-bottom: 2px;
+  text-align: center;
+  background: #f06623;
+  position: sticky;
+  top: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+  padding: 15px;
+}
+a:hover {
+  color: darkred;
+}
+div.container {
+  background: #e0b49f2e;
+  height: 70vh;
+  padding: 26px;
+  font-family: system-ui;
+}
+
